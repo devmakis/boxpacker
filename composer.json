@@ -1,0 +1,21 @@
+{
+  "name": "devmakis/boxpacker",
+  "type": "library",
+  "description": "Упаковка коробок",
+  "homepage": "https://github.com/devmakis/boxpacker.git",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kiselev Maxim",
+      "email": "kiselevmax1985@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Devmakis\\BoxPacker\\": "src/"
+    }
+  }
+}
